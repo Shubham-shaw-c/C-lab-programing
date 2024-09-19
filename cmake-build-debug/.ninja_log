@@ -1,5 +1,8 @@
 # ninja log v5
-1	1075	7484557891609745	CMakeFiles/C_lab_programing.dir/C++1.cpp.obj	5bc7ed82a3ae3aa7
-1079	1358	7484557894373980	C_lab_programing.exe	fafbb25bc58503aa
 8	1036	7484558320124565	CMakeFiles/C_lab_programing.dir/C++1.cpp.obj	5bc7ed82a3ae3aa7
 1037	1340	7484558323089149	C_lab_programing.exe	fafbb25bc58503aa
+8	455	7484563486939213	build.ninja	a5e64e848770fac3
+1	473	7484563492388075	CMakeFiles/C_lab_programing.dir/C++2.cpp.obj	c4d62d76895c15c0
+473	784	7484563495432519	C_lab_programing.exe	ea2572b8fadee7fb
+3	396	7484564316264875	CMakeFiles/C_lab_programing.dir/C++2.cpp.obj	c4d62d76895c15c0
+397	694	7484564319183297	C_lab_programing.exe	ea2572b8fadee7fb
