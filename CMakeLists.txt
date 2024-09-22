@@ -4,4 +4,4 @@ project(C_lab_programing)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(C_lab_programing
-        C++6.cpp)
+        C++7.cpp)
