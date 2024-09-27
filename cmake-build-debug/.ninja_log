@@ -1,20 +1,21 @@
 # ninja log v5
 8	1036	7484558320124565	CMakeFiles/C_lab_programing.dir/C++1.cpp.obj	5bc7ed82a3ae3aa7
 1	448	7489851432229015	CMakeFiles/C_lab_programing.dir/C++13.cpp.obj	50d64da2dd300e6d
-1136	1412	7490732612433404	C_lab_programing.exe	70a8d43bad99beff
+374	641	7490734035538742	C_lab_programing.exe	35457b9a15a5f63c
 6	383	7485434144375630	CMakeFiles/C_lab_programing.dir/C++3.cpp.obj	b6d38e6d866dde0e
-4	436	7490734028732294	build.ninja	a5e64e848770fac3
 1	367	7485436243662861	CMakeFiles/C_lab_programing.dir/C++4.cpp.obj	288e76d41756fd5f
+3	359	7491599555505019	build.ninja	a5e64e848770fac3
 3	396	7484564316264875	CMakeFiles/C_lab_programing.dir/C++2.cpp.obj	c4d62d76895c15c0
 1	418	7486270239716278	CMakeFiles/C_lab_programing.dir/C++5.cpp.obj	cd886086804a12c
 1	380	7486271948767427	CMakeFiles/C_lab_programing.dir/C++6.cpp.obj	b003bc9f517cdc4e
 1	389	7487137565182372	CMakeFiles/C_lab_programing.dir/C++7.cpp.obj	5be39e3cfa571d4e
+1	373	7490734032983919	CMakeFiles/C_lab_programing.dir/C++16.cpp.obj	72e3beee40d5475a
 1	1012	7487139091540804	CMakeFiles/C_lab_programing.dir/C++8.cpp.obj	fad6e9dd202a1d09
 0	415	7488006787724741	CMakeFiles/C_lab_programing.dir/C++9.cpp.obj	c93453cd2fb48e7d
 6	930	7488008166368056	CMakeFiles/C_lab_programing.dir/C++10.cpp.obj	da8d309121f303da
 0	248	7488980277279795	CMakeFiles/C_lab_programing.dir/C++11.cpp.obj	7ab51dafa4567cb
 0	427	7489852617699273	CMakeFiles/C_lab_programing.dir/C++14.cpp.obj	38b45cea27d0eb0e
 1	1136	7490732609786912	CMakeFiles/C_lab_programing.dir/C++15.cpp.obj	1a766f35fc479c
-3	359	7490734028732294	build.ninja	a5e64e848770fac3
-1	373	7490734032983919	CMakeFiles/C_lab_programing.dir/C++16.cpp.obj	72e3beee40d5475a
-374	641	7490734035538742	C_lab_programing.exe	35457b9a15a5f63c
+2	388	7491599555505019	build.ninja	a5e64e848770fac3
+1	1000	7491599566010950	CMakeFiles/C_lab_programing.dir/C++17.cpp.obj	8f7ddc3b919e7d72
+1000	1272	7491599568660496	C_lab_programing.exe	858418bf63583875
