@@ -4,4 +4,4 @@ project(C_lab_programing)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(C_lab_programing
-        C++20.cpp)
+        C++21.cpp)
